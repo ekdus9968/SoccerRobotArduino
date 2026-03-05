@@ -1,6 +1,6 @@
 # SoccerRobotArduino
 
-# Description: 
+# Description 
 Join us at Innovation Fest 2026 for a thrilling robot soccer competition, hosted by E-Council and Robobulls! Design, build, and program your bot to hold its ground and push the competition out of the ring. Build your way to victory within this heavy-hitting event! Whether you’re a seasoned pro or just starting, this is your chance to create, compete, and collaborate! Kits start at provided!
 
 # Competition Rules
